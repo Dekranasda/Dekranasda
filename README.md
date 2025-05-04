@@ -83,7 +83,7 @@ Selamat Datang Di Dekranasda Kota Batam, Disini kami memasarkan sebuah produk- p
 <main>
   <div class="catalog-grid">
     <div class="catalog-item">
-      <img src="https://cdn.discordapp.com/attachments/1127837308306083861/1367838070807728291/WhatsApp_Image_2025-05-02_at_09.33.28_d99f3fb7-removebg-preview.png?ex=681609f9&is=6814b879&hm=733578cdc6964b5d7b9e6875ca97e9c0d0992eb0a7267161be129dc6971c2a12&" />
+      <img src="blob:https://web.whatsapp.com/fd1cd635-0aad-4902-8dd5-89889dcce22c" />
       <div class="details">
         <div class="title">KERIPIK PANGSIT EBI</div>
         <div class="description">Tepung Terigu, Ebi, Daun Kari, Margarin, Garam, Telur, Air, Tapioka, Minyak Goreng, & Bumbu Tambahan Lainnya.</div>
